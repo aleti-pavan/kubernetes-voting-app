@@ -8,5 +8,5 @@ metadata:
 spec:
   containers:
     - name: worker-container
-      image: dockersamples/examplevotingapp_worker:before
+      image: dockersamples/examplevotingapp_worker
       
